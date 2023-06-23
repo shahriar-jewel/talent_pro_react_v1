@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "watch-twind": "postcss ./src/tailwind.css -o ./src/index.css -w",
-    "serve-json": "json-server --watch -p 4040 data.json"
+    "serve-json": "json-server --watch -p"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
